@@ -15,7 +15,7 @@ warnings.filterwarnings('ignore')
 
 st.write("# Personal Fitness Tracker")
 # st.image("", use_column_width=True)
-st.write("In this kebApp you will be able to observe your predicted calories burned in your body. Pass your parameters such as `Age`, `Gender`, `BMI`")
+st.write("In this Web App you will be able to observe your predicted calories burned in your body. Pass your parameters such as `Age`, `Gender`, `BMI`")
 
 st.sidebar.header("User Input Parameters: ")
 
